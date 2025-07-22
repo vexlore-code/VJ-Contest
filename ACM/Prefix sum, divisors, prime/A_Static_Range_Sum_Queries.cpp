@@ -46,14 +46,5 @@ signed main()
         sum = sum[i] + sum[b + 1];
     }
 
-
-
-
-
-
-
-
-    
-
     return 0;
 }
